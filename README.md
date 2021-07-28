@@ -28,7 +28,7 @@
 
 ## Usage: 
     - To post your thing, you need to sign up first.
-![usagevideo](./assets/blog_app_trial_video.gif)
+![usagevideo](./assets/blog_App_trial_video.gif)
 
 ## Contributor:  
 - Daeyoung Bae 
