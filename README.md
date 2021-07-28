@@ -8,7 +8,7 @@
   
 ## Heroku Deployment Link
   
-  [Blog App](https://note-maker-app-1204.herokuapp.com/)
+  [Blog App](https://tech-blog-app-1204.herokuapp.com/)
   
 
 ## Table of Contents
@@ -27,7 +27,7 @@
     - There is nothing to install on your computer
 
 ## Usage: 
-    - To post your thing, you need to sign up first.
+    - To post, you need to sign up first.
 ![usagevideo](./assets/blog_App_trial_video.gif)
 
 ## Contributor:  
